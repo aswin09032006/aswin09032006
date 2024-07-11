@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
+<!-- ![Header](./github-header-image.png) -->
 <h1 align="center"><b>Hi, I'm Aswin</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Introduction section with text animation -->
@@ -101,3 +102,8 @@ class Skills extends SoftwareDeveloper {
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
+<br>
+<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aswin09032006/count.svg?"  />
+</div>
