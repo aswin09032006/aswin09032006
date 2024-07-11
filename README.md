@@ -19,7 +19,7 @@ I'm an aspiring Frontend React Developer with a strong foundation in Flutter, ME
 ### Skills
 
 - **Languages**: Tamil (Professional Working), Saurashtra (Native or Bilingual), English (Professional Working), Hindi (Limited Working) 🗣️
-- **Top Skills**: Flutter, Git, MERN Stack 💻
+- **Top Skills**: React Developer, Flutter Development, Git, MERN Stack, AI & Data Science 💻
 - **Certifications**: Fundamental AI Concepts, Digital Skills: User Experience, Typewriting, Python for AI and Data Science, Responsive Web Design 🎓
 
 ### Education
