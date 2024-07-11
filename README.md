@@ -1,51 +1,103 @@
-<h2 align="left">Hi 👋! My name is Aswin and I'm an aspiring Frontend React Developer, from [Your City, Country].</h2>
+<!-- Gradient horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
+<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
+<h1 align="center"><b>Hi, I'm Aswin</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<!-- Introduction section with text animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+Welcome!..%E2%9D%A4%EF%B8%8F;++Self-taught+Front-End+Developer,;AI+and+DS+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..%E2%9D%A4%EF%B8%8F"></a>
+</p>
+
+
+
+<!-- About Me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></h2></summary>
+  </ul>
+</div>
+
+```js
+import SoftwareDeveloper from 'aswin';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Aswin V K';
+  title    = 'Aspiring Frontend React Developer';
+  company  = 'Bannari Amman Institute of Technology';
+  location = 'Tamil Nadu, India';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'C', 'C++', 'Python', 'HTML', 'CSS'];
+  databases  = ['MariaDB', 'MySQL'];
+  frameworks = ['React', 'Flutter', 'Node.js', 'Express'];
+}
+
+```
+<!-- GitHub Stats and Trophy section -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">GitHub Stats 📈</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <!-- GitHub Stats -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=aswin09032006&theme=dark&hide_border=true&show_icons=true&count_private=true" />
+        <br />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin09032006&theme=dark&hide_border=true" /> 
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aswin09032006&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- GitHub Trophy -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=aswin09032006&theme=github&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+</p>
+
+<!-- Technologies I Know section -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!-- Tech stack icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,html,css,javascript,github,git,vscode,figma,flutter,c,cpp,python,dart&perline=6" />
+</p>
+
+<!-- Connect With Me section -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+<!-- Icons and links -->
+<p align="center">
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vkaswin" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/aswxn._03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="mailto:vkaswinkanan@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="mail" height="50" width="50" /></a>
+</p>
+
+</p>
+
+
+<!-- Gradient horizontal divider at the bottom -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Snake animation -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswin09032006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin09032006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="gif image" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aswin09032006/aswin09032006/main/snake.svg" alt="Snake animation" />
-
-### Hello, I'm Aswin!
-
-I'm an aspiring Frontend React Developer from [Salem, India]. I love building interactive web applications with technologies like React, JavaScript, and CSS. Connect with me on [LinkedIn](https://www.linkedin.com/in/vkaswin) and check out my latest projects on [GitHub](https://github.com/aswin09032006).
