@@ -60,9 +60,7 @@ class Skills extends SoftwareDeveloper {
 
   <!-- GitHub Trophy -->
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=aswin09032006&theme=github&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
   </div>
 </p>
 
