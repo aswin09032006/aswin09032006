@@ -1,38 +1,51 @@
-# Hi there, I'm Aswin! 👋
+<h2 align="left">Hi 👋! My name is Aswin and I'm an aspiring Frontend React Developer, from [Your City, Country].</h2>
 
-![Profile Banner](./1711703791608.jpeg)
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswin09032006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin09032006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I'm an aspiring Frontend React Developer with a strong foundation in Flutter, MERN Stack, and Git. Currently, I'm expanding my expertise in AI, data science, and full-stack development at the Bannari Amman Institute of Technology.
+###
 
-### What I Do
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="gif image" />
 
-- **Frontend Development**: Crafting seamless and interactive user experiences with React ⚛️.
-- **Full-Stack Development**: Utilizing the MERN Stack to build comprehensive web applications 🌐.
-- **Flutter**: Developing cross-platform mobile applications with a focus on performance and usability 📱.
-- **AI & Data Science**: Exploring the frontiers of artificial intelligence and data science to create intelligent solutions 🤖.
+###
 
-### Accomplishments
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- **Research Presentations**: Presented innovative research on edge computing and digital multimedia at national conferences 📊.
-- **Volunteer Work**: Actively involved in environmental and social causes, dedicated to making a positive impact on the community 🌱.
+###
 
-### Skills
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- **Languages**: Tamil (Professional Working), Saurashtra (Native or Bilingual), English (Professional Working), Hindi (Limited Working) 🗣️
-- **Top Skills**: React Developer, Flutter Development, Git, MERN Stack, AI & Data Science 💻
-- **Certifications**: Fundamental AI Concepts, Digital Skills: User Experience, Typewriting, Python for AI and Data Science, Responsive Web Design 🎓
+###
 
-### Education
+<br clear="both">
 
-- **Bannari Amman Institute of Technology**: Bachelor of Technology in Artificial Intelligence (September 2023 - July 2027) 🏫
+<img src="https://raw.githubusercontent.com/aswin09032006/aswin09032006/main/images/snake.svg" alt="Snake animation" />
 
-### Let's Connect!
+### Hello, I'm Aswin!
 
-- **Email**: [vkaswinkanan@gmail.com](mailto:vkaswinkanan@gmail.com) 📧
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vkaswin) for professional insights, collaborations, and more 🤝.
-- **Instagram**: [Follow me](https://www.instagram.com/aswxn._03) to catch up on my journey 📸.
-- **GitHub**: Explore my repositories, contribute to projects, or just drop a star if you like what you see ⭐.
-
-Feel free to reach out, collaborate, or just chat about all things tech. Let's build something amazing together! 🚀
+I'm an aspiring Frontend React Developer from [Your City, Country]. I love building interactive web applications with technologies like React, JavaScript, and CSS. Connect with me on [LinkedIn](https://www.linkedin.com/in/vkaswin) and check out my latest projects on [GitHub](https://github.com/aswin09032006).
