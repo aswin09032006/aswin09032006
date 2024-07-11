@@ -44,8 +44,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aswin09032006/aswin09032006/main/images/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aswin09032006/aswin09032006/main/snake.svg" alt="Snake animation" />
 
 ### Hello, I'm Aswin!
 
-I'm an aspiring Frontend React Developer from [Your City, Country]. I love building interactive web applications with technologies like React, JavaScript, and CSS. Connect with me on [LinkedIn](https://www.linkedin.com/in/vkaswin) and check out my latest projects on [GitHub](https://github.com/aswin09032006).
+I'm an aspiring Frontend React Developer from [Salem, India]. I love building interactive web applications with technologies like React, JavaScript, and CSS. Connect with me on [LinkedIn](https://www.linkedin.com/in/vkaswin) and check out my latest projects on [GitHub](https://github.com/aswin09032006).
