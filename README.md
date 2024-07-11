@@ -1,5 +1,7 @@
 # Hi there, I'm Aswin! 👋
 
+![Profile Banner](./1711703791608.jpeg)
+
 ## About Me
 
 I'm an aspiring Frontend React Developer with a strong foundation in Flutter, MERN Stack, and Git. Currently, I'm expanding my expertise in AI, data science, and full-stack development at the Bannari Amman Institute of Technology.
