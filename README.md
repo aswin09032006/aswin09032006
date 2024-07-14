@@ -115,3 +115,4 @@ class Skills extends SoftwareDeveloper {
 <div align="center">
   <img src="https://profile-counter.glitch.me/aswin09032006/count.svg?"  />
 </div>
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
