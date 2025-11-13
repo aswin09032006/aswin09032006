@@ -16,6 +16,7 @@ I enjoy building scalable web applications, creating intuitive UIs, and learning
 ## 📫 Contact  
 - **Email:** [vkaswinkanan@gmail.com](mailto:vkaswinkanan@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/vkaswin](https://www.linkedin.com/in/vkaswin)  
+- **Portfolio:** [aswin-vk.vercel.app](https://aswin-vk.vercel.app/)
 
 ---
 
