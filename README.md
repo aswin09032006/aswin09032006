@@ -21,5 +21,5 @@ I enjoy building scalable web applications, creating intuitive UIs, and learning
 ---
 
 > ⚙️ **Important Note:**  
-> As per organizational and project policies, **all of my repositories will remain private**.  
+> As per organizational and project policies, **some of my repositories will remain private**.  
 > Most of my work involves **production-grade applications and collaborative projects**, which cannot be made public for confidentiality and compliance reasons.
